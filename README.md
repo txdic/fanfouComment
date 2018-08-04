@@ -1,4 +1,6 @@
 # fanfouComment
+饭否地址：http://fanfou.com/halls
+饭否账号：一颗不孤独的树
 
 一个转发网易云音乐评论，豆瓣电影和书籍评论的饭否机器人。
 
